@@ -1,3 +1,5 @@
 
 Trying to set up an envrioment for BuckleScript-VSCode
 users
+
+TODO: default .merlin should have stdlib set to the one bucklescript used
