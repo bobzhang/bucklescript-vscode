@@ -3,11 +3,8 @@
     "version": "0.01",
     "ocaml-config": {
         "sources": [
-            {"dir": "src",
-            "files" : [ 
-                        "hello.ml"
-                        ]
-                        
+            {
+                "dir": "src"
             }
         ]
     }
