@@ -1,11 +1,5 @@
 {
-    "name" : "test",
-    "version": "0.01",
-    "ocaml-config": {
-        "sources": [
-            {
-                "dir": "src"
-            }
-        ]
-    }
+    "name" : "test",   
+    "sources":   {   "dir": "src"  },
+    "generate-merlin" : true
 }

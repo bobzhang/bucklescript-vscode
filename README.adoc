@@ -1,5 +1,4 @@
 
-Trying to set up an envrioment for BuckleScript-VSCode
-users
+Minimal example of using BuckleScript
 
-TODO: default .merlin should have stdlib set to the one bucklescript used
+It also with VSCode
